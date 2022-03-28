@@ -1,0 +1,60 @@
+table {
+    /* max-width: 2360px; */
+    width: 100%;
+    border-right: 1px solid #e0e0e0;
+  }
+
+ th{
+  font-family: 'Segoe UI';
+  font-size: small;
+  font-weight: bold;
+  color: darkslategray;
+} 
+
+td{
+  font-family: 'Segoe UI';
+  font-size: small;
+  font-weight: normal;
+  color: darkslategray;
+} 
+
+.mat-column-camera_id{
+  width: 12% !important;
+}
+
+.mat-column-officer_name{
+  width: 10% !important;
+}
+
+.mat-column-address{
+   width: 30% !important;
+}
+
+.mat-column-attendance{
+  width: 10% !important;
+}
+
+.mat-column-status{
+  width: 10% !important;
+  text-align: center;
+}
+
+.mat-header-cell{
+  text-align: center;
+  border: 1px solid lightgrey;
+}
+
+.mat-cell{
+  text-align: center;
+  border: 1px solid lightgrey;
+}
+
+.mat-form-field {
+  
+  width: 75%;
+}
+/* .mat-cell-header{
+  border-right: 1px solid lightgrey;
+} */
+
+
